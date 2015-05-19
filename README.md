@@ -1,5 +1,7 @@
 # Transmission-Web-zh_cn-Manage
 
+git clone https://github.com/tuziwo/Transmission-Web-zh_cn-Manage.git
+
 Transmission 2.84 WEB zh_cn Manage
 
 Transmission 2.84 WEB zh_cn Manage 是整合了
